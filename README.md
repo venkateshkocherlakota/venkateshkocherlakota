@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkateshkocherlakota
 - 👀 I’m interested in anything that challenges me and forces me to learn new things 😂😁😊
-- 🌱 I’m currently learning and mastering react-native
+- 🌱 I’m currently learning and mastering Angular and .Net Core
 - 💞️ I’m looking to collaborate on web, desktop and android app development
 - 📫 How to reach me : kocherlakotavenkatesh666@gmail.com
 
